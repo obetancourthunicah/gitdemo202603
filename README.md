@@ -6,3 +6,4 @@ Esto es un demo.
 
 - Orlando José Betancourth <obetancourthunicah@gmail.com>
 - Otro Developer <fulanitodetal@deve.com>
+- Sutanita de Tal y Miletos <sutanita@deve.com>
