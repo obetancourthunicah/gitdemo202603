@@ -4,4 +4,4 @@ Esto es un demo.
 
 ## Developers
 
-- Orlando J Betancourth <obetancourthunicah@gmail.com>
+- Orlando José Betancourth <obetancourthunicah@gmail.com>
